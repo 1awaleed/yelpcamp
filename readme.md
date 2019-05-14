@@ -4,5 +4,5 @@
 <p>It uses nodeJS and expressJS for backend</p>
 <p>The dataBase uses mongoDB</p>
 
-<ul>
+<p>This website is deployed on heroku, <a href="https://yelpcamp-1awaleed.herokuapp.com">click here to visit</a>.</p>
   
