@@ -1,0 +1,21 @@
+body{
+    
+}
+
+div.comment{
+    margin-top: 20px;
+    background-color: rgba(0, 123, 255, 0.03);
+}
+/*
+#showImg{
+	height: 50%;
+	max-height: 100%;
+	width: 50%;
+}*/
+
+.campgroundIndex{
+	/*text-align: center;*/
+	background-image: url(/img/yelpcamp_mountain.jpg);
+	background-size: cover;
+	color: white;
+}
